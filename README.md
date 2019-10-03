@@ -1,15 +1,13 @@
 # Faruq Rahmadani
 
-> Personal website to showcase my profile.
+> My name is Faruq Rahmadani this is my personal website showcasing my professional profile.
 
-My name is Faruq Rahmadani this is my personal website showcasing my professional profile.
+### About me
 
-## About me
+### Contact Information
 
-## Contact Information
+### Expeciences/Projects
 
-## Expeciences/Projects
+### Educational Barckground
 
-## Educational Barckground
-
-## Hobbies 
+### Hobbies 
